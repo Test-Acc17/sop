@@ -436,7 +436,7 @@ colors = [
 clear()
 color = random.choice(colors)
 banner()
-print(f"{C_LABEL} ➤ Created By: {C_VALUE}@spideyabd  {C_LABEL}&  {C_VALUE}@INDRAJIT_1MO{RESET}")
+print(f"{C_LABEL} ➤ Created By: {C_VALUE}@WadiaPanel  {C_LABEL}&  {C_VALUE}@steve_jobshere{RESET}")
 print(f"{C_LABEL} ➤ {C_WARN}For Educational Purpose Only{RESET}")
 print(f"{C_LABEL} ➤ {C_RED}Not For Sale{RESET}")
 print("")
